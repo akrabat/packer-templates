@@ -8,3 +8,5 @@ output-qemu
 vendor
 Vagrantfile
 .vagrant/
+packer_cache/
+cookbooks/packer-templates/Berksfile.lock
