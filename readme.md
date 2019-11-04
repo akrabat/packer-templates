@@ -7,6 +7,7 @@ This repo and much of its content are covered in detail from [this blog post](ht
 
 1. Merged [PR #120](https://github.com/mwrock/packer-templates/pull/120)
 2. Add [README-HOWTO.md](README-HOWTO.md)
+3. Do not delete unused Windows features as we may want to install them
 
 ## Prerequisites
 
