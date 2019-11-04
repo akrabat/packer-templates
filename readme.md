@@ -3,6 +3,11 @@ A Packer template that simplifies the creation of minimally-sized, fully patched
 
 This repo and much of its content are covered in detail from [this blog post](http://www.hurryupandwait.io/blog/creating-windows-base-images-for-virtualbox-and-hyper-v-using-packer-boxstarter-and-vagrant). Also see [this post](http://www.hurryupandwait.io/blog/a-packer-template-for-windows-nano-server-weighing-300mb) specifically for the Nano Server template.
 
+## Rob Allen changes
+
+1. Merged [PR #120](https://github.com/mwrock/packer-templates/pull/120)
+2. Add [README-HOWTO.md](README-HOWTO.md)
+
 ## Prerequisites
 
 You need the following to run the template:
